@@ -1,0 +1,22 @@
+LOGOS OFICIAIS DOS CANAIS
+=========================
+
+Coloque aqui os arquivos de logo oficiais (baixados do kit de marca
+de cada plataforma), com EXATAMENTE estes nomes:
+
+  kwai.svg
+  tiktok.svg
+  temu.svg
+  shein.svg
+  shopee.svg
+  mercadolivre.svg
+
+Pode ser .svg ou .png (se usar .png, troque a extensão no App.jsx,
+em DEFAULT > canais > logo). Quadrados (ex.: 128x128) ficam melhores.
+
+Enquanto o arquivo não estiver aqui, o app mostra a inicial do canal
+com a cor da marca (sem imagem quebrada). Assim que o arquivo existir,
+o logo aparece sozinho.
+
+Você também pode trocar o logo de um canal direto no app, na aba
+Marketplaces (campo "Logo (URL)").
